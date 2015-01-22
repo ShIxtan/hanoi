@@ -1,0 +1,38 @@
+div #main {
+  position: relative;
+  display: block;
+  margin: auto;
+}
+
+.tower {
+  height: 200px;
+  width: 50px;
+  float: left;
+  margin-right: 80px;
+  background: #eee;
+}
+
+.disk {
+  display: block;
+  height: 50px;
+  background: orange;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.d1 {
+  width: 70px;
+}
+
+.d2 {
+  width: 90px;
+}
+
+.d3 {
+width: 110px;
+}
+
+.highlighted {
+  background-color: cyan;
+}
